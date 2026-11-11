@@ -1,2 +1,44 @@
-# anay-github.github.io
-Anay Pandit’s personal portfolio — robotics, AI, aerospace, and the projects behind the curiosity.
+# Anay Pandit — Personal portfolio
+
+A custom, responsive portfolio for robotics, AI, and aerospace work.
+
+**Public address:** https://anay-github.github.io/
+
+## Preview locally
+
+From this directory:
+
+```sh
+python3 -m http.server 8000
+```
+
+Open http://localhost:8000. Serve this folder at the website root; asset and navigation paths begin with `/`.
+
+## Edit the site
+
+- `index.html`: homepage copy, selected work, About, and milestones.
+- `projects/<project-name>/index.html`: individual project stories.
+- `assets/style.css`: shared colors, spacing, typography, and responsive layouts.
+- `assets/site.js`: optional active-section navigation highlight.
+- `assets/`: real project imagery, schematic favicon, and social preview.
+- `DESIGN.md`: visual rules and instructions for future AI-assisted edits.
+- `PLAN.md`: the agreed plan, including the design-brief and refinement process.
+- `SOURCES.md`: public references and image provenance.
+
+There are no required packages, install step, framework, API keys, or backend. All reading and navigation works without JavaScript.
+
+## GitHub Pages
+
+Use the `anay-github.github.io` public repository. In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/ (root)`. `.nojekyll` keeps this as a static site. Changes pushed to the publishing branch will update the site. Do not add a `CNAME` until a custom domain has been chosen and configured.
+
+## Verify the rocket demo
+
+```sh
+node demos/rocket-flight-lab/physics.test.cjs
+```
+
+The model and its tests are copied from Anay's Rocket Flight Lab, with an added back-to-portfolio link in the HTML. The original project is credited in its README and case study.
+
+## Authorship
+
+Project direction and personal material: Anay Pandit. Portfolio implementation, content assembly, and custom schematic: Codex, November 2026. Team-project and AI contributions are described in the relevant case studies. No third-party website template was copied.
