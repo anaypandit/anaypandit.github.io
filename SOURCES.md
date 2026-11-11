@@ -21,3 +21,7 @@
 - `social-preview.png`: original portfolio sharing card generated from this site's visual system.
 
 The archive supports the NVIDIA certifications and personal activities. The academic timeline follows Anay's own statements. Team award amounts are corroborated in the project records reviewed with Anay; private correspondence is not published here.
+
+## Profile link
+
+LinkedIn: https://www.linkedin.com/in/anaypandit/ — confirmed from Anay’s signed-in LinkedIn sidebar in Chrome.

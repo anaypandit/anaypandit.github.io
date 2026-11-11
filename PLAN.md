@@ -10,7 +10,7 @@ Use a proven portfolio structure plus a detailed design brief rather than a vagu
 
 ## Deliverables
 
-- Homepage: introduction, selected work, About, selected milestones, and GitHub contact.
+- Homepage: introduction, selected work, About, selected milestones, and GitHub / LinkedIn contact.
 - Four project stories: Rocket Flight Lab, VEX Robotics, MindBloom, and Focus Coach.
 - Working standalone copy of Rocket Flight Lab with its numerical checks and attribution.
 - Shared responsive CSS, minimal optional JavaScript, favicon, social preview, sitemap, robots file, and 404 page.
