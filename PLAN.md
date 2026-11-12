@@ -2,7 +2,7 @@
 
 ## Summary
 
-Create a lasting personal website with a dark aerospace aesthetic, real project evidence, and a concise personal story. Start on the free GitHub Pages address https://anay-github.github.io/ and leave a custom domain for later.
+Create a lasting personal website with a dark aerospace aesthetic, real project evidence, and a concise personal story. Start on the free GitHub Pages address https://anaypandit.github.io/ and leave a custom domain for later.
 
 ## Design approach added after discussion
 

@@ -2,7 +2,7 @@
 
 A custom, responsive portfolio for robotics, AI, and aerospace work.
 
-**Public address:** https://anay-github.github.io/
+**[Visit the portfolio](https://anaypandit.github.io/)** · **[Project sources](SOURCES.md)** · **[Design brief](DESIGN.md)**
 
 ## Preview locally
 
@@ -29,7 +29,15 @@ There are no required packages, install step, framework, API keys, or backend. A
 
 ## GitHub Pages
 
-Use the `anay-github.github.io` public repository. In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/ (root)`. `.nojekyll` keeps this as a static site. Changes pushed to the publishing branch will update the site. Do not add a `CNAME` until a custom domain has been chosen and configured.
+Use the [`anaypandit/anaypandit.github.io`](https://github.com/anaypandit/anaypandit.github.io) public repository. The repository name must match the account username followed by `.github.io` for this root-level personal site. In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/ (root)`. `.nojekyll` keeps this as a static site. Changes pushed to the publishing branch will update the site. Do not add a `CNAME` until a custom domain has been chosen and configured.
+
+## After the username change
+
+The account and Pages repository now use `anaypandit`. The live site, canonical URLs, sitemap, sharing images, and GitHub profile/project links use the new address. For an existing local checkout, update its remote:
+
+```sh
+git remote set-url origin https://github.com/anaypandit/anaypandit.github.io.git
+```
 
 ## Verify the rocket demo
 

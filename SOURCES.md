@@ -2,10 +2,11 @@
 
 ## Project records
 
-- Rocket Flight Lab: https://github.com/anay-github/rocket-flight-lab
-- MindBloom current source: https://github.com/anay-github/mindbloom
+- Rocket Flight Lab: https://github.com/anaypandit/rocket-flight-lab
+- MindBloom current source: https://github.com/anaypandit/mindbloom
 - MindBloom live prototype: https://mindbloom-ai-app.lovable.app/
 - MindBloom project reporting: https://ualr.edu/news/2026/06/16/arkansas-students-reimagine-healthcare-at-ua-little-rock-ai-hackathon/
+- Focus Coach live prototype: https://v0-new-project-emcec5fbckx.vercel.app/
 - Focus Coach winner coverage: https://ualr.edu/news/2025/08/07/mental-health-ai-hackathon/
 - Official VEX team records: https://events.vex.com/teams/V5RC/49959Z, https://events.vex.com/teams/V5RC/49959P, https://events.vex.com/teams/V5RC/49959C
 - Arkansas State results: https://events.vex.com/RE-V5RC-24-6396.html#awards
