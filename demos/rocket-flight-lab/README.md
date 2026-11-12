@@ -28,7 +28,7 @@ Built with **HTML, CSS, and JavaScript**.
 
 ## About the project
 
-Created as an independent educational project by **Anay Pandit**, exploring aerospace engineering through simulation. The initial interface, physics implementation, and tests were developed with **Codex assistance**.
+Created as an independent educational project by **Anay Pandit**, exploring aerospace engineering through simulation. The initial interface and simulation were developed with **Codex assistance**.
 
 The model is for learning and experimentation. It does not include wind, attitude, staging, parachutes, or orbital motion, and has not been validated against a real flight.
 
