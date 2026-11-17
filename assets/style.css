@@ -131,9 +131,6 @@
 }
 
 .project-with-demo .project-demo {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
   grid-column: 2 / -1;
   justify-self: end;
   color: var(--accent);
@@ -151,63 +148,4 @@
     grid-column: 1;
     justify-self: start;
   }
-}
-
-.demo-trajectory {
-  position: relative;
-  flex: none;
-  width: 44px;
-  height: 18px;
-}
-
-.demo-trajectory::before {
-  content: "";
-  position: absolute;
-  inset: 3px 2px auto;
-  height: 13px;
-  border: 1px solid currentColor;
-  border-bottom: 0;
-  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
-  opacity: .55;
-}
-
-.demo-trajectory::after {
-  content: "";
-  position: absolute;
-  top: 14px;
-  right: 0;
-  width: 4px;
-  height: 4px;
-  border-radius: 50%;
-  background: currentColor;
-}
-
-@supports (offset-path: path("M 2 16 A 20 13 0 0 1 42 16")) {
-  .demo-trajectory::after {
-    top: 0;
-    left: 0;
-    right: auto;
-    offset-path: path("M 2 16 A 20 13 0 0 1 42 16");
-    offset-distance: 100%;
-  }
-
-  @media (prefers-reduced-motion: no-preference) {
-    .demo-trajectory[data-launched]::before {
-      animation: draw-trajectory 800ms ease-in-out both;
-    }
-
-    .demo-trajectory[data-launched]::after {
-      animation: follow-trajectory 800ms ease-in-out both;
-    }
-  }
-}
-
-@keyframes draw-trajectory {
-  from { clip-path: inset(0 100% 0 0); }
-  to { clip-path: inset(0); }
-}
-
-@keyframes follow-trajectory {
-  from { offset-distance: 0%; }
-  to { offset-distance: 100%; }
 }

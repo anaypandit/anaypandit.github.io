@@ -15,18 +15,3 @@
   }, { rootMargin: '-15% 0px -65% 0px', threshold: 0 });
   sections.forEach(section => observer.observe(section));
 })();
-
-// Draw the flight trace once when the simulator link first comes into view.
-(() => {
-  const trajectory = document.querySelector('.demo-trajectory');
-  if (!trajectory || !('IntersectionObserver' in window)) return;
-
-  const observer = new IntersectionObserver(([entry]) => {
-    if (!entry.isIntersecting) return;
-
-    trajectory.dataset.launched = '';
-    observer.disconnect();
-  }, { threshold: 1 });
-
-  observer.observe(trajectory);
-})();
