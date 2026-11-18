@@ -13,6 +13,7 @@
 
 ## Images and illustrations
 
+- **Focus Coach and MindBloom award photographs:** Anay’s project archive.
 - **Robotics, model plane workbench, and Pitch N' Punch photographs:** Anay's project archive.
 - **Club aircraft photos:** ASMSA Model Aviation Student Club’s [build photo](https://www.instagram.com/p/DXiJww-kcvI/) and [maiden flight photo](https://www.instagram.com/p/DY0KGC4mhN8/) on Instagram. The flight photo is cropped from the post.
 - **MindBloom image:** screenshot of the public prototype; names and signals are demonstration data.
