@@ -199,8 +199,34 @@
   }
 }
 
+.press-grid {
+  display: grid;
+  grid-template-columns: minmax(0, .82fr) repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 24px;
+}
 .portfolio-press .portfolio-photo {
-  max-width: 760px;
+  max-width: 320px;
+}
+.press-grid iframe {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+.press-video {
+  height: auto;
+  min-height: 200px;
+  aspect-ratio: 16 / 9;
+}
+.press-article {
+  height: 470px;
+}
+@media (max-width: 860px) {
+  .press-grid {
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 540px;
+  }
 }
 .project-gallery--playlab {
   grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr);

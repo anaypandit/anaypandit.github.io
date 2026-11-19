@@ -7,6 +7,7 @@
 - [Focus Coach live prototype](https://v0-new-project-emcec5fbckx.vercel.app/)
 - [UA Little Rock's MindBloom coverage](https://ualr.edu/news/2026/06/16/arkansas-students-reimagine-healthcare-at-ua-little-rock-ai-hackathon/)
 - [UA Little Rock's Focus Coach coverage](https://ualr.edu/news/2025/08/07/mental-health-ai-hackathon/)
+- [Video coverage of Pinnacle View Robotics heading to the VEX World Championship](https://www.youtube.com/watch?v=u_fTiRoSkpI)
 - Official VEX records: [49959Z](https://events.vex.com/teams/V5RC/49959Z), [49959P](https://events.vex.com/teams/V5RC/49959P), and [49959C](https://events.vex.com/teams/V5RC/49959C)
 - [2025 Arkansas State results](https://events.vex.com/RE-V5RC-24-6396.html#awards)
 - [Worlds qualification coverage](https://www.arkansastechnews.com/arkansas-k-12-robotics-teams-qualify-for-worlds/)
