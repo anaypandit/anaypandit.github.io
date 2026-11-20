@@ -14,7 +14,7 @@
 
 ## Images and illustrations
 
-- **Magazine spread:** “Generational Innovation” by Kody Ford. Photo of the printed feature from Anay’s archive.
+- **AI Arkansas Magazine, Issue 1:** “Generational Innovation” by Kody Ford (pp. 16–17). The [PDF excerpt](assets/generational-innovation.pdf) includes the issue’s front cover and both feature pages. The printed spread photo is from Anay’s archive.
 - **Focus Coach and MindBloom award photographs:** Anay’s project archive.
 - **Robotics, model plane workbench, and Pitch N' Punch photographs:** Anay's project archive.
 - **Club aircraft photos:** ASMSA Model Aviation Student Club’s [build photo](https://www.instagram.com/p/DXiJww-kcvI/) and [maiden flight photo](https://www.instagram.com/p/DY0KGC4mhN8/) on Instagram. The flight photo is cropped from the post.

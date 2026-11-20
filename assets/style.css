@@ -205,8 +205,25 @@
   align-items: start;
   gap: 24px;
 }
-.portfolio-press .portfolio-photo {
+.press-magazine {
   max-width: 320px;
+}
+.press-magazine-images {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 5fr);
+  align-items: center;
+  gap: 10px;
+}
+.press-magazine figcaption {
+  display: grid;
+  gap: 4px;
+}
+.press-magazine figcaption strong {
+  color: var(--text);
+  font-size: 15px;
+}
+.press-magazine figcaption a {
+  justify-self: start;
 }
 .press-grid iframe {
   display: block;
